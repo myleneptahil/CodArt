@@ -1,0 +1,21 @@
+[class*="col"] {
+    padding: 1rem;
+    background-color: cyan;
+    border: 2px solid white;
+    font-weight: bold;
+}
+
+.class_days {
+    padding: 1rem;
+    background-color: powderblue;
+    border: 2px solid white;
+    font-weight: bold;
+}
+
+.class_time {
+    padding: 1rem;
+    background-color: powderblue;
+    border: 2px solid white;
+    font-weight: bold;
+    font-size: small;
+}
